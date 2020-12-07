@@ -1,12 +1,9 @@
-name: "cars"
-output_dir: "docs"
-navbar:
-  title: "Cars"
-  left:
-  - text: "Home"
-   href: index.html
-  - text: "Speed and Distance"
-   href: speed-and-distance.html
-output:
-  html_document:
- theme: cosmo
+theme: jekyll-theme-minimal
+title: GitHub pages template
+description: A simple template based on minimal jekyll theme
+show_downloads: True
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
