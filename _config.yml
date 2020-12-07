@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Link to file2
     url: file2
+ - title: Another home link
+    url: /
